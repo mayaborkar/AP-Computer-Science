@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=car()
+comment1.params=color\ fast\ doors
+comment1.target=car(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=3
