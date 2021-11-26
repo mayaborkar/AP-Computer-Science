@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=fName\ lName\ uName\ pass\ perBal\ busBal
+comment1.target=Client(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=amount
+comment2.target=void\ personalWithdraw(double)
+comment3.params=amount
+comment3.target=void\ personalDeposit(double)
+comment4.params=amount
+comment4.target=void\ businessWithdraw(double)
+comment5.params=amount
+comment5.target=void\ businessDeposit(double)
+numComments=6

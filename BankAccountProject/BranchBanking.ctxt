@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BranchBanking
+comment1.params=clients
+comment1.target=BranchBanking(java.util.ArrayList)
+comment2.params=
+comment2.target=double\ getMoney()
+comment3.params=
+comment3.target=double\ totalPersonal()
+comment4.params=
+comment4.target=double\ totalBusiness()
+numComments=5

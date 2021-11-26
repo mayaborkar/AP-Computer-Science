@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=boolean\ getIsHidden()
+comment2.params=hidden
+comment2.target=void\ updateIsHidden(boolean)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getXPos()
+comment5.params=
+comment5.target=int\ getYPos()
+numComments=6

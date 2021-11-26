@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TownsPeople
+comment1.params=map
+comment1.target=TownsPeople(java.lang.Object[][])
+comment2.params=
+comment2.target=void\ setHasVisited()
+comment3.params=
+comment3.target=boolean\ getHasVisited()
+comment4.params=hidden
+comment4.target=void\ updateIsHidden(boolean)
+comment5.params=
+comment5.target=boolean\ getIsHidden()
+comment6.params=
+comment6.target=int\ getXPos()
+comment7.params=
+comment7.target=int\ getYPos()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+numComments=9

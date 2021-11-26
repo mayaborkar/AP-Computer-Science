@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=map
+comment1.target=Potion(java.lang.Object[][])
+comment2.params=hidden
+comment2.target=void\ updateIsHidden(boolean)
+comment3.params=
+comment3.target=boolean\ getIsHidden()
+comment4.params=updateX
+comment4.target=void\ setXPos(int)
+comment5.params=
+comment5.target=int\ getXPos()
+comment6.params=updateY
+comment6.target=void\ setYPos(int)
+comment7.params=
+comment7.target=int\ getYPos()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+numComments=9

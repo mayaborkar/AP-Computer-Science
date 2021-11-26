@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CorporateOffice
+comment1.params=clients
+comment1.target=CorporateOffice(java.util.ArrayList)
+comment2.params=username\ password
+comment2.target=Client\ getClient(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ publishClientInfo()
+comment4.params=
+comment4.target=void\ publishBusinessBalance()
+comment5.params=
+comment5.target=void\ publishPersonalBalance()
+comment6.params=
+comment6.target=boolean\ checkProfit()
+comment7.params=
+comment7.target=boolean\ checkPersonalProfit()
+comment8.params=
+comment8.target=boolean\ checkBusinessProfit()
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=sub
+comment1.params=prompt
+comment1.target=int\ getInput(java.lang.String)
+comment2.params=
+comment2.target=void\ randomizeLength()
+comment3.params=
+comment3.target=void\ randomizeHeight()
+comment4.params=
+comment4.target=void\ subXY()
+comment5.params=
+comment5.target=void\ showSubLocation()
+comment6.params=x1\ y1\ x2\ y2
+comment6.target=double\ distance(int,\ int,\ int,\ int)
+comment7.params=bombX\ bombY
+comment7.target=boolean\ directHit(int,\ int)
+comment8.params=bombX\ bombY
+comment8.target=boolean\ indirectHit(int,\ int)
+comment9.params=
+comment9.target=sub()
+numComments=10
