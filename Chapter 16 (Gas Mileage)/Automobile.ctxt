@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Automobile
+comment0.text=\n\ Write\ a\ description\ of\ class\ Automobile\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=milesPerGallon
+comment1.target=Automobile(double)
+comment2.params=gasAdded
+comment2.target=void\ fillUp(double)
+comment3.params=milesTraveled
+comment3.target=void\ takeTrip(double)
+comment4.params=
+comment4.target=double\ reportFuel()
+numComments=5
