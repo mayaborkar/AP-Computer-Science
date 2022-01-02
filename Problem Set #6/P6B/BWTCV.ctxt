@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ rotateRabbitEars()
+comment0.text=\n\ \ \ \ private\ int\ x;\n\n\ \ \ \ /**\n\ Constructor\ for\ objects\ of\ class\ BWTCV\n\ \ \ \ \ \n\ \ \ \ public\ BWTCV()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ //\ initialise\ instance\ variables\n\ \ \ \ \ \ \ \ x\ \=\ 0;\n\ \ \ \ }\n
+comment1.params=
+comment1.target=java.lang.String\ tvType()
+numComments=2
