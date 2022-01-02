@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MySong
+comment1.params=
+comment1.target=MySong()
+comment2.params=name\ rating
+comment2.target=MySong(java.lang.String,\ int)
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=rating
+comment5.target=void\ setRating(int)
+comment6.params=
+comment6.target=int\ getRating()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
