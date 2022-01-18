@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Trail
+comment1.params=
+comment1.target=Trail()
+comment2.params=start\ end
+comment2.target=boolean\ isLevelTrailSegment(int,\ int)
+comment3.params=
+comment3.target=boolean\ isDifficult()
+numComments=4
