@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HorseBarn
+comment0.text=\n\ Write\ a\ description\ of\ class\ HorseBarn\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=HorseBarn()
+comment2.params=name
+comment2.target=int\ findHorseSpace(java.lang.String)
+comment3.params=
+comment3.target=void\ consolidate()
+numComments=4
