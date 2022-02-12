@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=APCalendar
+comment1.params=
+comment1.target=APCalendar()
+comment2.params=year
+comment2.target=boolean\ isLeapYear(int)
+comment3.params=year1\ year2
+comment3.target=int\ numberOfLeapYears(int,\ int)
+comment4.params=year
+comment4.target=int\ firstDayOfYear(int)
+comment5.params=month\ day\ year
+comment5.target=int\ dayOfYear(int,\ int,\ int)
+comment6.params=month\ day\ year
+comment6.target=int\ dayOfWeek(int,\ int,\ int)
+numComments=7

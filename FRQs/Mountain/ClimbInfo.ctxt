@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=peakName\ climbTime
+comment0.target=ClimbInfo(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getTime()
+numComments=3

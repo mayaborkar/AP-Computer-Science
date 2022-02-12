@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numRows\ numCols\ scanned
+comment0.target=SkyView(int,\ int,\ double[])
+comment1.params=startRow\ endRow\ startCol\ endCol
+comment1.target=double\ getAverage(int,\ int,\ int,\ int)
+numComments=2
