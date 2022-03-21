@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RouteCipher
+comment1.params=
+comment1.target=void\ main()
+comment2.params=numRows\ numCols
+comment2.target=RouteCipher(int,\ int)
+comment3.params=str
+comment3.target=void\ fillBlock(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ encryptBlock()
+comment5.params=message
+comment5.target=java.lang.String\ encryptMessage(java.lang.String)
+numComments=6
